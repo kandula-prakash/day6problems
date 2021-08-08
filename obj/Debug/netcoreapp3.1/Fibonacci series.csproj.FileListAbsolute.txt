@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\bin\Debug\netcoreapp3.1\Fibonacci series.exe
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\bin\Debug\netcoreapp3.1\Fibonacci series.deps.json
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\bin\Debug\netcoreapp3.1\Fibonacci series.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\bin\Debug\netcoreapp3.1\Fibonacci series.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\bin\Debug\netcoreapp3.1\Fibonacci series.dll
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\bin\Debug\netcoreapp3.1\Fibonacci series.pdb
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\obj\Debug\netcoreapp3.1\Fibonacci series.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\obj\Debug\netcoreapp3.1\Fibonacci series.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\obj\Debug\netcoreapp3.1\Fibonacci series.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\obj\Debug\netcoreapp3.1\Fibonacci series.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\obj\Debug\netcoreapp3.1\Fibonacci series.dll
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\obj\Debug\netcoreapp3.1\Fibonacci series.pdb
+C:\Users\prakash kandula\source\repos\Fibonacci series\Fibonacci series\obj\Debug\netcoreapp3.1\Fibonacci series.genruntimeconfig.cache
